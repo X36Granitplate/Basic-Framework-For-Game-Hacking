@@ -6,8 +6,8 @@
 - My main goal is to get to be a game developer, as i like programming in one of my favourite programming languages, such as c++ for example,
 - when it comes to object oriented programming.
 - I had been programming c++ now for almost 5 months now, and want to keep getting better at my programming skills.
-- I know other additional programming languages for example Lua. 
-- I am also willing to learn javascript for hosting a webserver, the most likely java as well.
+
+- If you view my codes and you have any suggestions on how to improve its logic etc. Do suggest them, i'd appreciate it, as i am also still learning.
 
 - How to reach me:
   By sending me an email through: kucuku.granit@gmail.com

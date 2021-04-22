@@ -2,7 +2,7 @@
 - I’m interested in game programming when it comes to making dynamic link library files to hack in a game.
 - I’m currently learning c++ further, and besides javascript and lua.
 - I’m looking to collaborate on any sort of open project when it comes to re building a game, or when it comes to any utilities for game design etc. Pretty much almost for anything.
-- - I live in germany.
+- I live in germany.
 
 - My main goal is to get to be a game developer, as i like programming in one of my favourite programming languages, such as c++ for example,
 - when it comes to object oriented programming.
